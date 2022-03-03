@@ -20,6 +20,8 @@
     - The file *olleh* will be in the working directory
     ---
     **NOTE**
+
     The mode of olleh will not always be 664. Make sure the script works for any mode.
+    
     ---
 * 
