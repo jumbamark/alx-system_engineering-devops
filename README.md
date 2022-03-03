@@ -14,4 +14,4 @@ Jumba Mark
 
 Email: jumbamark@yahoo.com
 
-Twitter: https://twitter.com/_jumbamark_
+[Twitter](https://twitter.com/_jumbamark_)
