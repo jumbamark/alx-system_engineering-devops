@@ -15,3 +15,11 @@
     ```shell
     -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
     ```
+* **10-mirror_permissions** - script that sets the mode of the file *hello* the same as *olleh's* mode
+    - The file *hello* will be in the working directory
+    - The file *olleh* will be in the working directory
+    ---
+    **NOTE**
+    The mode of olleh will not always be 664. Make sure the script works for any mode.
+    ---
+* 
