@@ -14,5 +14,5 @@ Directories | Description
 Jumba Mark
 
 <p><span>Email:</span> <a href="mailto:jumbamark@yahoo.com">jumbamark@yahoo.com</a></p>
+<p><span>Twitter:</span> <a href="https://twitter.com/_jumbamark_">_jumbamark_</a></p>
 
-[Twitter](https://twitter.com/_jumbamark_)
