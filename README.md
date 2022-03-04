@@ -13,6 +13,6 @@ Directories | Description
 
 Jumba Mark
 
-<p><span>Email:</span> <a href="mailto:raymondyegon17@gmail.com">raymondyegon17@gmail.com</a></p>
+<p><span>Email:</span> <a href="mailto:jumbamark@yahoo.com">jumbamark@yahoo.com</a></p>
 
 [Twitter](https://twitter.com/_jumbamark_)
