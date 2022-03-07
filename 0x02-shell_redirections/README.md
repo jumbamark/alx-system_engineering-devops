@@ -56,3 +56,9 @@
     > The listing should end with a new line
     >
     > You are not allowed to use basename, grep, egrep, fgrep or rgrep
+* **102-acrostic** - decodes acrostics that use the first letter of each line.
+    > An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval
+    >> You are not allowed to use grep, egrep, fgrep or rgrep
+* **103-the_biggest_fan** - parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+    > Order by number of requests, most active host or IP at the top
+    > You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`
