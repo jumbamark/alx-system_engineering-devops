@@ -31,3 +31,15 @@
 * **17-hidethisword**  -  Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 * **18-letteronly** - Display all lines of the file */etc/ssh/sshd_config* starting with a letter.
   > include capital letters as well
+* **19-AZ** - Replace all characters A and c from input to Z and e respectively.
+* **20-hiago** - removes all letters c and C from input.
+* **21-reverse** - reverses it's input
+* **22-users_and_homes** - displays all users and their home directories, sorted by users.
+  > Based on the the */etc/passwd* file
+* **100-empty_casks** - finds all empty files and directories in the current directory and all sub-directories.
+    - Only the names of the files and directories should be displayed (not the entire path)
+    - Hidden files should be listed
+    - One file name per line
+    - The listing should end with a new line
+    - You are not allowed to use basename, grep, egrep, fgrep or rgrep
+* 
