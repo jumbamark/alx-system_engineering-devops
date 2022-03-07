@@ -37,11 +37,11 @@
 * **22-users_and_homes** - displays all users and their home directories, sorted by users.
   > Based on the the */etc/passwd* file
 * **100-empty_casks** - finds all empty files and directories in the current directory and all sub-directories.
-    - Only the names of the files and directories should be displayed (not the entire path)
-    - Hidden files should be listed
-    - One file name per line
-    - The listing should end with a new line
-    - You are not allowed to use basename, grep, egrep, fgrep or rgrep
+    > Only the names of the files and directories should be displayed (not the entire path)
+    > Hidden files should be listed
+    > One file name per line
+    > The listing should end with a new line
+    > You are not allowed to use basename, grep, egrep, fgrep or rgrep
 * **101-gifs** - lists all the files with a .gif extension in the current directory and all its sub-directories
     > Hidden files should be listed
     >
