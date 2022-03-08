@@ -20,3 +20,16 @@
     > * *BREATH* and *LOVE* are environment variables
     >
     > - The script should display the result, followed by a new line
+* **11-binary_to_decimal** - converts a number from base 2 to base 10.
+- **12-combinations**  -  prints all possible combinations of two letters, except *oo*.
+    > - Letters are lower cases, from *a* to *z*
+    > 
+    > * One combination per line
+    >
+    > - The output should be alpha ordered, starting with *aa*
+    >
+    > * Do not print *oo*
+    >
+    > - Your script file should contain maximum 64 characters
+- **13-print_float** - prints a number with two decimal places, followed by a new line.
+    > The number will be stored in the environment variable *NUM*.
