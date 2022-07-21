@@ -1,6 +1,5 @@
 #!/usr/bin/bash
-# Bash script that prints "bad luck" 4th iteration,"good luck"
-# on the 8th iteration, and "Best school" for other iteration
+# Bash script that prints "bad luck" 4th iteration,"good luck" on the 8th iteration, and "Best school" for other iteration
 n=1
 
 while [ $n -le 10 ]
