@@ -1,5 +1,7 @@
 # 0x05. Processes and signals
 
+Files | Description
+----- | -----------
 [0-what-is-my-pid](./0-what-is-my-pid) | Bash script that displays its own PID
 [1-list_your_processes](./1-list_your_processes) | Bash script that displays a list of currently running processes
 [2-show_your_bash_pid](./2-show_your_bash_pid) | Bash script that displays lines containing the bash word, allowing to easily get the PID of the bash process
