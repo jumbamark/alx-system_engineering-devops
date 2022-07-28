@@ -1,4 +1,4 @@
-_0x07. Networking basics #0
+0x07. Networking basics #0
 ==========================
 
 -   By Sylvain Kalache
@@ -9,21 +9,20 @@ Resources
 ---------
 
 **Read or watch**:
-
--   [OSI model](https://alx-intranet.hbtn.io/rltoken/k2uCsynicuNbu1cAQhXqVQ "OSI model")
--   [Different types of network](https://alx-intranet.hbtn.io/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A "Different types of network")
--   [LAN network](https://alx-intranet.hbtn.io/rltoken/en370-Hrwgi_GUvFcg3bKg "LAN network")
--   [WAN network](https://alx-intranet.hbtn.io/rltoken/Ah1EKqnINR85lM4P2WnLSw "WAN network")
--   [Internet](https://alx-intranet.hbtn.io/rltoken/Lwh9xQxFD4dWh5sIApXI1g "Internet")
--   [MAC address](https://alx-intranet.hbtn.io/rltoken/j-Wp-YRvFTVP04SpIeRzHQ "MAC address")
--   [What is an IP address](https://alx-intranet.hbtn.io/rltoken/HaZZvrmGaQ3U7ZLDYgZb6w "What is an IP address")
--   [Private and public address](https://alx-intranet.hbtn.io/rltoken/OPJCZYuWSEXLIZOqU9Uc0A "Private and public address")
--   [IPv4 and IPv6](https://alx-intranet.hbtn.io/rltoken/M8g-egWLlldTl6Y0QECdwA "IPv4 and IPv6")
--   [Localhost](https://alx-intranet.hbtn.io/rltoken/7lj-zoZQ7xFTkj4MTyos_g "Localhost")
--   [TCP and UDP](https://alx-intranet.hbtn.io/rltoken/uJbs8E9-FyATfsELpmtTIg "TCP and UDP")
--   [TCP/UDP ports List](https://alx-intranet.hbtn.io/rltoken/4PYkqDfOvIZZb9aUPGOOzQ "TCP/UDP ports List")
--   [What is ping /ICMP](https://alx-intranet.hbtn.io/rltoken/3zBgO6r2M1Q8lUVt9g8aJw "What is ping /ICMP")
--   [Positional parameters](https://alx-intranet.hbtn.io/rltoken/ZbMHH3jmxFhcrbigVy15iw "Positional parameters")
+-   [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+-   [Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
+-   [LAN network](https://en.wikipedia.org/wiki/Local_area_network)
+-   [WAN network](https://en.wikipedia.org/wiki/Wide_area_network)
+-   [Internet](https://en.wikipedia.org/wiki/Internet)
+-   [MAC address](https://whatismyipaddress.com/mac-address)
+-   [What is an IP address](https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/)
+-   [Private and public address](https://www.iplocation.net/public-vs-private-ip-address)
+-   [IPv4 and IPv6](https://www.webopedia.com/insights/ipv6-ipv4-difference/)
+-   [Localhost](https://en.wikipedia.org/wiki/Localhost)
+-   [TCP and UDP](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
+-   [TCP/UDP ports List](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+-   [What is ping /ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)
+-   [Positional parameters](https://wiki.bash-hackers.org/scripting/posparams)
 
 **man or help**:
 
@@ -33,7 +32,7 @@ Resources
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/RowLuXQWMOPFHaboo_3odA "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google**:
 
 ### OSI Model
 
@@ -101,7 +100,7 @@ sylvain@ubuntu$
 
 ```
 
-Source for question 1 [here](https://alx-intranet.hbtn.io/rltoken/iEZZ6SemL1HJHjaJOjlPYQ "here")
+Source for question 1 [here](https://twitter.com/devopsreact/status/831922429215662080)
 
 Tasks
 -----
@@ -268,7 +267,7 @@ While the full list of ports should not be memorized, it is important to know th
 -   **80** for HTTP
 -   **443** for HTTPS
 
-Note that a specific [IP + port = socket](https://alx-intranet.hbtn.io/rltoken/tMKODilbDVpB8EgfIRDJVw "IP + port = socket").
+Note that a specific [IP + port = socket](https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket).
 
 Write a Bash script that displays listening ports:
 
