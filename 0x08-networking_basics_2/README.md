@@ -12,10 +12,10 @@ Resources
 
 **Read or watch**:
 
--   [What is localhost](https://alx-intranet.hbtn.io/rltoken/Odcc_tyAQlcANCCrtmxo6A "What is localhost")
--   [What is 0.0.0.0](https://alx-intranet.hbtn.io/rltoken/fUb9IpnxrNaddMljzwbhJQ "What is 0.0.0.0")
--   [What is the hosts file](https://alx-intranet.hbtn.io/rltoken/4_MBpFTulKliFM69jCPzOQ "What is the hosts file")
--   [Netcat examples](https://alx-intranet.hbtn.io/rltoken/OR0lOEwAw9I1Rj4aGp1Ljg "Netcat examples")
+-   [What is localhost](https://en.wikipedia.org/wiki/Localhost)
+-   [What is 0.0.0.0](https://en.wikipedia.org/wiki/0.0.0.0)
+-   [What is the hosts file](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)
+-   [Netcat examples](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
 
 **man or help**:
 
@@ -27,7 +27,7 @@ Resources
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/IpTKeVwlKHT4ZVva_T891w "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google**:
 
 ### General
 
@@ -70,7 +70,7 @@ Requirements:
 
 -   `localhost` resolves to `127.0.0.2`
 -   `facebook.com` resolves to `8.8.8.8`.
--   The checker is running on Docker, so make sure to read [this](https://alx-intranet.hbtn.io/rltoken/h50f-AAOBFjIrVc8zX34ug "this")
+-   The checker is running on Docker, so make sure to read [this](https://web.archive.org/sry)
 
 Example:
 
