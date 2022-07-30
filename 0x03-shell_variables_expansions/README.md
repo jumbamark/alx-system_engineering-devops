@@ -14,12 +14,12 @@ Resources
 
 **Read or watch**:
 
--   [Expansions](https://alx-intranet.hbtn.io/rltoken/oXnzBjLBA9t9dr7WuftdmQ "Expansions")
--   [Shell Arithmetic](https://alx-intranet.hbtn.io/rltoken/PLSUQnBcKKU5eEgRfRDlug "Shell Arithmetic")
--   [Variables](https://alx-intranet.hbtn.io/rltoken/SvdGNZJjKsPghzZEhaWu4Q "Variables")
--   [Shell initialization files](https://alx-intranet.hbtn.io/rltoken/tqud57kjsSYgDfeZDlwl3g "Shell initialization files")
--   [The alias Command](https://alx-intranet.hbtn.io/rltoken/zCemKQ8f1CxmODIs9dmcWg "The alias Command")
--   [Technical Writing](https://alx-intranet.hbtn.io/rltoken/gzXkaQsMeeNHSK3LbaKZeQ "Technical Writing")
+-   [Expansions](http://linuxcommand.org/lc3_lts0080.php)
+-   [Shell Arithmetic](https://www.gnu.org/software/bash/manual/html_node/Shell-Arithmetic.html)
+-   [Variables](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
+-   [Shell initialization files](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html)
+-   [The alias Command](http://www.linfo.org/alias.html)
+-   [Technical Writing](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/6/9112669886fd446a2aa3113c31319d1f468dc160.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220730%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220730T175224Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=dc6e6bb0fb47ccd9ecfb31488020c12dc8fe66d1fd34c74031e4994b8735b707)
 
 **man or help**:
 
