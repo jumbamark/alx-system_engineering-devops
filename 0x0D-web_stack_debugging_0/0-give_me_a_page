@@ -1,6 +1,3 @@
 #!/usr/bin/env bash
-# Get apache to run on a docker container and return Hello Holberton when querying the root of it
-sudo apt-get update
-sudo apt-get install apache2 -y
-sudo apt-get install systemd -y
-apachectl start
+# In this first debugging project, you will need to get Apache to run on the container and to return a page containing Hello Holberton when querying the root of it
+service apache2 restart
